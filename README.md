@@ -1,16 +1,15 @@
-### Hi, I'm Sabrina👋👩🏻‍💻
+### Hi there, I'm Sabrina 👋👩🏻‍💻
+
+- 🔭 I’m currently a Data Science Fellow
+- 🐍 I’m currently learning Python and SQL
+- ✈️ Fun fact: I love to travel and have been to over 45 countries
 
 <!--
 **SantanaSabrina/SantanaSabrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently a Data Science Fellow 
+
+- 🔭 I’m currently a Data Science Fellow
 - 🌱 I’m currently learning Python and SQL
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to travel and have been to over 45 countries
 -->
